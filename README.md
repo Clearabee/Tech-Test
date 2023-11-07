@@ -25,4 +25,3 @@ This runs the tests in watch mode, so they will run again any time a change is s
 If you have any questions or issues, please do not hesitate to reach out to Naveed Ziarab at naveed.ziarab@clearabee.co.uk.
 
 We look forward to discussing your submission with you.
-# Tech-Test
