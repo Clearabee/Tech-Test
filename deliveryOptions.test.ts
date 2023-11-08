@@ -12,7 +12,7 @@ describe("getDeliveryOptions", () => {
             price: 20,
           },
           {
-            name: "Delivery 2",
+            name: "Delivery Option 2",
             timeSlot: { from: "12:00", to: "13:00" },
             price: 50,
           },
@@ -27,7 +27,7 @@ describe("getDeliveryOptions", () => {
         price: 20,
       },
       {
-        name: "Delivery 2",
+        name: "Delivery Option 2",
         timeSlot: { from: "12:00", to: "13:00" },
         price: 50,
       },
@@ -47,7 +47,7 @@ describe("getDeliveryOptions", () => {
             price: 20,
           },
           {
-            name: "Delivery 2",
+            name: "Delivery Option 2",
             timeSlot: { from: "12:00", to: "13:00" },
             price: 30,
           },
@@ -62,7 +62,7 @@ describe("getDeliveryOptions", () => {
             price: 20,
           },
           {
-            name: "Delivery 4",
+            name: "Delivery Option 4",
             timeSlot: { from: "12:00", to: "13:00" },
             price: 30,
           },
@@ -77,7 +77,7 @@ describe("getDeliveryOptions", () => {
         price: 20,
       },
       {
-        name: "Delivery 2",
+        name: "Delivery Option 2",
         timeSlot: { from: "12:00", to: "13:00" },
         price: 30,
       },
@@ -97,7 +97,7 @@ describe("getDeliveryOptions", () => {
             price: 20,
           },
           {
-            name: "Delivery 2",
+            name: "Delivery Option 2",
             timeSlot: { from: "12:00", to: "13:00" },
             price: 30,
           },
@@ -112,7 +112,7 @@ describe("getDeliveryOptions", () => {
             price: 50,
           },
           {
-            name: "Delivery 4",
+            name: "Delivery Option 4",
             timeSlot: { from: "12:00", to: "13:00" },
             price: 30,
           },
@@ -127,7 +127,7 @@ describe("getDeliveryOptions", () => {
         price: 50,
       },
       {
-        name: "Delivery 2",
+        name: "Delivery Option 2",
         timeSlot: { from: "12:00", to: "13:00" },
         price: 30,
       },
@@ -147,7 +147,7 @@ describe("getDeliveryOptions", () => {
             price: 20,
           },
           {
-            name: "Delivery 2",
+            name: "Delivery Option 2",
             timeSlot: { from: "12:00", to: "13:00" },
             price: 30,
           },
@@ -162,12 +162,12 @@ describe("getDeliveryOptions", () => {
             price: 50,
           },
           {
-            name: "Delivery 4",
+            name: "Delivery Option 4",
             timeSlot: { from: "12:00", to: "13:00" },
             price: 30,
           },
           {
-            name: "Delivery 5",
+            name: "Delivery Option 5",
             timeSlot: { from: "14:00", to: "15:00" },
             price: 30,
           },
@@ -182,7 +182,7 @@ describe("getDeliveryOptions", () => {
         price: 50,
       },
       {
-        name: "Delivery 2",
+        name: "Delivery Option 2",
         timeSlot: { from: "12:00", to: "13:00" },
         price: 30,
       },
