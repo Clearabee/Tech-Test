@@ -2,13 +2,13 @@
 
 ## Instructions
 
-Thank you for you interest in the developer role at Clearabee. Please follow the instructions below:
+Thank you for you interest in the developer role at Clearabee. For this task, please follow the instructions below:
 
-- Create a private repository in your own github account using this [template](https://github.com/Clearabee/Tech-Test)
-- Create a new branch from the main branch
+- Create a private repository in your **own** github account using this **[template](https://github.com/Clearabee/Tech-Test)**
+- Create a new branch off the main branch
 - Commit your work on the new branch, and push it to github
-- Invite Naveed Ziarab, Head of Engineering, to collaborate on the project
-- Raise a pull request against the main branch and add Naveed as a reviewer
+- Invite Naveed Ziarab, Head of Engineering, to collaborate on the project **[@Nav33d](https://github.com/Nav33d)**
+- Create a pull request against the main branch and add Naveed as a reviewer
 
 ## Test
 
@@ -35,7 +35,3 @@ This runs the tests in watch mode, so they will run again any time a change is s
 If you have any questions or issues, please do not hesitate to reach out to Naveed Ziarab at naveed.ziarab@clearabee.co.uk.
 
 We look forward to discussing your submission with you.
-
-## Submitting
-
-Please push your commits and add the following as collaborators on the project: Nav33d.
