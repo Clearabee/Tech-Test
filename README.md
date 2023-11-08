@@ -2,7 +2,7 @@
 
 ## Instructions
 
-Thank you for your interest in the developer role at Clearabee. For this task, please follow these instructions:
+Thank you for your interest in the developer role at Clearabee. For this task, please:
 
 - Follow this **[link](https://github.com/new?template_name=Tech-Test&template_owner=Clearabee)** to create a new repository from this template in your github account
 
