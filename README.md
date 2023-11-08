@@ -4,7 +4,7 @@
 
 Thank you for your interest in the developer role at Clearabee. For this task, please:
 
-- Follow this **[link](https://github.com/new?template_name=Tech-Test&template_owner=Clearabee)** to create a new **private** repository from this template in your github account
+- Follow this **[link](https://github.com/new?template_name=Tech-Test&template_owner=Clearabee)** and create a new **private** repository from this template in your github account
 
 - Create a new branch off the main branch
 
