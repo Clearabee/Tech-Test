@@ -4,10 +4,14 @@
 
 Thank you for your interest in the developer role at Clearabee. For this task, please follow these instructions:
 
-- Create a private repository in your **own** github account using this **[template](https://github.com/new?template_name=Tech-Test&template_owner=Clearabee)**
+- Follow this **[link](https://github.com/new?template_name=Tech-Test&template_owner=Clearabee)** to create a new repository from this template in your github account
+
 - Create a new branch off the main branch
+
 - Commit your work on the new branch, and push it to github
-- Invite Naveed Ziarab, Head of Engineering, to collaborate on the project **[@Nav33d](https://github.com/Nav33d)**
+
+- Invite Naveed Ziarab, [@Nav33d](https://github.com/Nav33d), Head of Engineering, to collaborate on the project
+
 - Create a pull request against the main branch and add Naveed as a reviewer
 
 ## Install
