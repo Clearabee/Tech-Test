@@ -2,7 +2,7 @@
 
 ## Instructions
 
-Thank you for your interest in the developer role at Clearabee. For this task, please follow the instructions below:
+Thank you for your interest in the developer role at Clearabee. For this task, please follow these instructions:
 
 - Create a private repository in your **own** github account using this **[template](https://github.com/new?template_name=Tech-Test&template_owner=Clearabee)**
 - Create a new branch off the main branch
@@ -20,7 +20,7 @@ This test is based on a real situation we had to solve at Clearabee: we have a n
 
 ## Time
 
-We know how time consuming tech tests can be, so we have intentionally designed this not to take more than a few hours. If you only complete part of the test, please submit what you have done, as **we are as interested in how you go about the task as we are in you completing it**.
+We know how time consuming tech tests can be, so we have intentionally designed this not to take more than a few hours. If you only complete part of the test, please submit what you have done, as **we are equally interested in how you approach the task as we are in you completing it.**.
 
 ## Install
 
@@ -28,10 +28,8 @@ We know how time consuming tech tests can be, so we have intentionally designed 
 
 ## Tests
 
-This runs the tests in watch mode, so test will run again any time a change is saved.
-
 `npm run test`
 
-If you have any questions or issues, please do not hesitate to reach out to Naveed Ziarab at naveed.ziarab@clearabee.co.uk.
+If you have questions or issues, please do not hesitate to reach out to Naveed Ziarab at naveed.ziarab@clearabee.co.uk.
 
 We look forward to discussing your submission with you.
