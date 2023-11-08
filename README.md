@@ -10,7 +10,15 @@ Thank you for your interest in the developer role at Clearabee. For this task, p
 - Invite Naveed Ziarab, Head of Engineering, to collaborate on the project **[@Nav33d](https://github.com/Nav33d)**
 - Create a pull request against the main branch and add Naveed as a reviewer
 
-## Test
+## Install
+
+`npm i`
+
+## Running Tests
+
+`npm run test`
+
+## Task
 
 We ask that you complete the function _getDeliveryOptions_ in deliveryOptions.ts, so all tests pass.
 
@@ -20,15 +28,7 @@ This test is based on a real situation we had to solve at Clearabee: we have a n
 
 ## Time
 
-We know how time consuming tech tests can be, so we have intentionally designed this not to take more than a few hours. If you only complete part of the test, please submit what you have done, as **we are equally interested in how you approach the task as we are in you completing it.**.
-
-## Install
-
-`npm i`
-
-## Tests
-
-`npm run test`
+We know how time consuming tech tests can be, so we have intentionally designed this not to take more than a few hours. If you only complete part of the test, please submit what you have done, as **we are equally interested in how you approach the task as we are in you completing it**.
 
 If you have questions or issues, please do not hesitate to reach out to Naveed Ziarab at naveed.ziarab@clearabee.co.uk.
 
